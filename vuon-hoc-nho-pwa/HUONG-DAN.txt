@@ -1,0 +1,3 @@
+GOI UNG DUNG "VUON HOC NHO" (PWA)
+Gom: index.html, sw.js, manifest.webmanifest, thu muc icons. Giu nguyen cung mot thu muc khi tai len.
+Moi lan cap nhat: thay index.html va doi so o dong dau sw.js (const VER="kem-v7-1" -> "kem-v7-2").

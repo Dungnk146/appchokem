@@ -1,0 +1,32 @@
+{
+  "name": "Vườn học nhỏ – Gia sư tại nhà lớp 2",
+  "short_name": "Vườn học nhỏ",
+  "description": "Luyện Toán và Tiếng Việt lớp 2 mỗi tối",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F2F8F1",
+  "theme_color": "#2A9858",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
